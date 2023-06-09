@@ -1,5 +1,5 @@
 
 	<footer class="section">
-		<div class="center grey-text">Copyright 2021 DBMS CIA-3</div>
+		<div class="center grey-text">Copyright 2023 SHAlockHolmes on GitHub</div>
 	</footer>
 </body>
