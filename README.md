@@ -36,4 +36,9 @@ Retrives the data related to the registered customer. Also has the option to del
 ### 4. Reviews
 Customers can update or delete their previous stationery product reviews. There is a separate update or delete review pages for these two functions.
 
+## Files
+
+The "pages" folder has all the php webpages where db_connect is an important file to check if the database is connected successfully to the php Admin. Replace with your username and password and if required, even the name of the localhost.
+The "templates" folder is required for the header, footer and navigation bar.
+
 
